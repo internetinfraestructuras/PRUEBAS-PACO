@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module test>
-        sadfsdfdsafdsafsaf babab
-        primer cambio
-      </module>
       <module fileurl="file://$PROJECT_DIR$/.idea/PRUEBAS-PACO.iml" filepath="$PROJECT_DIR$/.idea/PRUEBAS-PACO.iml" />
     </modules>
   </component>
